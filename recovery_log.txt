@@ -1,0 +1,137 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, December 2, 2025 10:13:57 PM
+   Source : C:\Users\Alisya\Desktop\SimulasiDrive_D\
+     Dest : C:\Users\Alisya\Desktop\SimulasiDrive_C\
+
+    Files : *.pdf
+	    *.docx
+	    
+  Options : /V /TEE /S /E /DCOPY:DA /COPY:DAT /Z /ETA /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Users\Alisya\Desktop\SimulasiDrive_D\
+	  New Dir          0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_A\
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_A\Subfolder_A1\
+	    New File  		    2048	data_1_A.docx100%  
+	    New File  		    1024	dokumen_1_A.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_A\Subfolder_A2\
+	    New File  		    2048	data_2_A.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_2_A.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_A\Subfolder_A3\
+	    New File  		    2048	data_3_A.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_3_A.pdf	22:14 -> 22:14100%  
+	  New Dir          0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\Subfolder_B1\
+	    New File  		    2048	data_1_B.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_1_B.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\Subfolder_B2\
+	    New File  		    2048	data_2_B.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_2_B.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\Subfolder_B3\
+	    New File  		    2048	data_3_B.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_3_B.pdf	22:14 -> 22:14100%  
+	  New Dir          0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_C\
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_C\Subfolder_C1\
+	    New File  		    2048	data_1_C.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_1_C.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_C\Subfolder_C2\
+	    New File  		    2048	data_2_C.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_2_C.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_C\Subfolder_C3\
+	    New File  		    2048	data_3_C.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_3_C.pdf	22:14 -> 22:14100%  
+	  New Dir          0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_D\
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_D\Subfolder_D1\
+	    New File  		    2048	data_1_D.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_1_D.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_D\Subfolder_D2\
+	    New File  		    2048	data_2_D.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_2_D.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_D\Subfolder_D3\
+	    New File  		    2048	data_3_D.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_3_D.pdf	22:14 -> 22:14100%  
+	  New Dir          0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_E\
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_E\Subfolder_E1\
+	    New File  		    2048	data_1_E.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_1_E.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_E\Subfolder_E2\
+	    New File  		    2048	data_2_E.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_2_E.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_E\Subfolder_E3\
+	    New File  		    2048	data_3_E.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_3_E.pdf	22:14 -> 22:14100%  
+	  New Dir          0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_F\
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_F\Subfolder_F1\
+	    New File  		    2048	data_1_F.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_1_F.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_F\Subfolder_F2\
+	    New File  		    2048	data_2_F.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_2_F.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_F\Subfolder_F3\
+	    New File  		    2048	data_3_F.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_3_F.pdf	22:14 -> 22:14100%  
+	  New Dir          0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_G\
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_G\Subfolder_G1\
+	    New File  		    2048	data_1_G.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_1_G.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_G\Subfolder_G2\
+	    New File  		    2048	data_2_G.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_2_G.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_G\Subfolder_G3\
+	    New File  		    2048	data_3_G.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_3_G.pdf	22:14 -> 22:14100%  
+	  New Dir          0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_H\
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_H\Subfolder_H1\
+	    New File  		    2048	data_1_H.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_1_H.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_H\Subfolder_H2\
+	    New File  		    2048	data_2_H.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_2_H.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_H\Subfolder_H3\
+	    New File  		    2048	data_3_H.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_3_H.pdf	22:14 -> 22:14100%  
+	  New Dir          0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_I\
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_I\Subfolder_I1\
+	    New File  		    2048	data_1_I.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_1_I.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_I\Subfolder_I2\
+	    New File  		    2048	data_2_I.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_2_I.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_I\Subfolder_I3\
+	    New File  		    2048	data_3_I.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_3_I.pdf	22:14 -> 22:14100%  
+	  New Dir          0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_J\
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_J\Subfolder_J1\
+	    New File  		    2048	data_1_J.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_1_J.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_J\Subfolder_J2\
+	    New File  		    2048	data_2_J.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_2_J.pdf	22:14 -> 22:14100%  
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_J\Subfolder_J3\
+	    New File  		    2048	data_3_J.docx	22:14 -> 22:14100%  
+	    New File  		    1024	dokumen_3_J.pdf	22:14 -> 22:14100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        41        40         1         0         0         0
+   Files :        60        60         0         0         0         0
+   Bytes :    90.0 k    90.0 k         0         0         0         0
+   Times :   0:00:17   0:00:01                       0:00:00   0:00:15
+
+
+   Speed :               66206 Bytes/sec.
+   Speed :               3.788 MegaBytes/min.
+   Ended : Tuesday, December 2, 2025 10:14:17 PM
+
+ 
+---------------------------------------------------------------- 
+HASIL VERIFIKASI (Cek verification_log.txt): 
+Robocopy membandingkan file Sumber dan Tujuan. 
+Jika file yang tercatat di verification_log.txt sedikit (hanya direktori), maka verifikasi berhasil. 
+---------------------------------------------------------------- 

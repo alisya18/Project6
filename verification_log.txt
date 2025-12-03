@@ -1,0 +1,127 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, December 2, 2025 10:14:18 PM
+   Source : C:\Users\Alisya\Desktop\SimulasiDrive_D\
+     Dest : C:\Users\Alisya\Desktop\SimulasiDrive_C\
+
+    Files : *.pdf
+	    *.docx
+	    
+  Options : /V /L /S /E /DCOPY:DA /COPY:DAT /IS /IT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Users\Alisya\Desktop\SimulasiDrive_D\
+	                   0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_A\
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_A\Subfolder_A1\
+	    Same      		    2048	data_1_A.docx
+	    Same      		    1024	dokumen_1_A.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_A\Subfolder_A2\
+	    Same      		    2048	data_2_A.docx
+	    Same      		    1024	dokumen_2_A.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_A\Subfolder_A3\
+	    Same      		    2048	data_3_A.docx
+	    Same      		    1024	dokumen_3_A.pdf
+	                   0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\Subfolder_B1\
+	    Same      		    2048	data_1_B.docx
+	    Same      		    1024	dokumen_1_B.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\Subfolder_B2\
+	    Same      		    2048	data_2_B.docx
+	    Same      		    1024	dokumen_2_B.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\Subfolder_B3\
+	    Same      		    2048	data_3_B.docx
+	    Same      		    1024	dokumen_3_B.pdf
+	                   0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_C\
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_C\Subfolder_C1\
+	    Same      		    2048	data_1_C.docx
+	    Same      		    1024	dokumen_1_C.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_C\Subfolder_C2\
+	    Same      		    2048	data_2_C.docx
+	    Same      		    1024	dokumen_2_C.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_C\Subfolder_C3\
+	    Same      		    2048	data_3_C.docx
+	    Same      		    1024	dokumen_3_C.pdf
+	                   0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_D\
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_D\Subfolder_D1\
+	    Same      		    2048	data_1_D.docx
+	    Same      		    1024	dokumen_1_D.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_D\Subfolder_D2\
+	    Same      		    2048	data_2_D.docx
+	    Same      		    1024	dokumen_2_D.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_D\Subfolder_D3\
+	    Same      		    2048	data_3_D.docx
+	    Same      		    1024	dokumen_3_D.pdf
+	                   0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_E\
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_E\Subfolder_E1\
+	    Same      		    2048	data_1_E.docx
+	    Same      		    1024	dokumen_1_E.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_E\Subfolder_E2\
+	    Same      		    2048	data_2_E.docx
+	    Same      		    1024	dokumen_2_E.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_E\Subfolder_E3\
+	    Same      		    2048	data_3_E.docx
+	    Same      		    1024	dokumen_3_E.pdf
+	                   0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_F\
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_F\Subfolder_F1\
+	    Same      		    2048	data_1_F.docx
+	    Same      		    1024	dokumen_1_F.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_F\Subfolder_F2\
+	    Same      		    2048	data_2_F.docx
+	    Same      		    1024	dokumen_2_F.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_F\Subfolder_F3\
+	    Same      		    2048	data_3_F.docx
+	    Same      		    1024	dokumen_3_F.pdf
+	                   0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_G\
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_G\Subfolder_G1\
+	    Same      		    2048	data_1_G.docx
+	    Same      		    1024	dokumen_1_G.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_G\Subfolder_G2\
+	    Same      		    2048	data_2_G.docx
+	    Same      		    1024	dokumen_2_G.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_G\Subfolder_G3\
+	    Same      		    2048	data_3_G.docx
+	    Same      		    1024	dokumen_3_G.pdf
+	                   0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_H\
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_H\Subfolder_H1\
+	    Same      		    2048	data_1_H.docx
+	    Same      		    1024	dokumen_1_H.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_H\Subfolder_H2\
+	    Same      		    2048	data_2_H.docx
+	    Same      		    1024	dokumen_2_H.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_H\Subfolder_H3\
+	    Same      		    2048	data_3_H.docx
+	    Same      		    1024	dokumen_3_H.pdf
+	                   0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_I\
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_I\Subfolder_I1\
+	    Same      		    2048	data_1_I.docx
+	    Same      		    1024	dokumen_1_I.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_I\Subfolder_I2\
+	    Same      		    2048	data_2_I.docx
+	    Same      		    1024	dokumen_2_I.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_I\Subfolder_I3\
+	    Same      		    2048	data_3_I.docx
+	    Same      		    1024	dokumen_3_I.pdf
+	                   0	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_J\
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_J\Subfolder_J1\
+	    Same      		    2048	data_1_J.docx
+	    Same      		    1024	dokumen_1_J.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_J\Subfolder_J2\
+	    Same      		    2048	data_2_J.docx
+	    Same      		    1024	dokumen_2_J.pdf
+	                   2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_J\Subfolder_J3\
+	    Same      		    2048	data_3_J.docx
+	    Same      		    1024	dokumen_3_J.pdf
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        41         0        41         0         0         0
+   Files :        60        60         0         0         0         0
+   Bytes :    90.0 k    90.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Tuesday, December 2, 2025 10:14:18 PM
+

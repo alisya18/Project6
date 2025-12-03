@@ -1,0 +1,11 @@
+﻿
+2025.12.02 22:19:49 (Tue)------------Start of Session-----------------
+Blat v3.2.24 (build : Feb  9 2022 21:19:39)
+64-bit Windows, Full, Unicode
+Failed to open registry key for Blat
+To set the SMTP server's name/address and your username/email address for that
+server machine do:
+blat -install  server_name  your_email_address
+or use '-server <server_name>' and '-f <your_email_address>'
+aborting, nothing sent
+2025.12.02 22:19:49 (Tue)-------------End of Session------------------

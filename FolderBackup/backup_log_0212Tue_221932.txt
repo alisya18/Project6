@@ -1,0 +1,242 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, December 2, 2025 10:19:33 PM
+   Source : C:\Users\Alisya\Desktop\SimulasiDrive_D\
+     Dest : D:\FolderBackup\
+
+    Files : *.*
+	    
+  Options : *.* /TEE /S /E /DCOPY:DA /COPY:DAT /NP /XO /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Users\Alisya\Desktop\SimulasiDrive_D\
+	*EXTRA Dir        -1	D:\FolderBackup\Backup_02-Tue-12_1016 PM\
+	  *EXTRA File 		       0	backup_log_0212Tue_221932.txt
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_A\
+	    New File  		    2048	cofig_1.ini
+	    New File  		    3072	database_1.db
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_A\Subfolder_A1\
+	    New File  		    5120	aplikasi_1_A.bat
+	    New File  		    3072	catatan_1_A.txt
+	    New File  		    2048	data_1_A.docx
+	    New File  		    1024	dokumen_1_A.pdf
+	    New File  		    4096	laporan_1_A.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_A\Subfolder_A2\
+	    New File  		    5120	aplikasi_2_A.bat
+	    New File  		    3072	catatan_2_A.txt
+	    New File  		    2048	data_2_A.docx
+	    New File  		    1024	dokumen_2_A.pdf
+	    New File  		    4096	laporan_2_A.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_A\Subfolder_A3\
+	    New File  		    5120	aplikasi_3_A.bat
+	    New File  		    3072	catatan_3_A.txt
+	    New File  		    2048	data_3_A.docx
+	    New File  		    1024	dokumen_3_A.pdf
+	    New File  		    4096	laporan_3_A.csv
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\
+	    New File  		    2048	cofig_2.ini
+	    New File  		    3072	database_2.db
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\Subfolder_B1\
+	    New File  		    5120	aplikasi_1_B.bat
+	    New File  		    3072	catatan_1_B.txt
+	    New File  		    2048	data_1_B.docx
+	    New File  		    1024	dokumen_1_B.pdf
+	    New File  		    4096	laporan_1_B.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\Subfolder_B2\
+	    New File  		    5120	aplikasi_2_B.bat
+	    New File  		    3072	catatan_2_B.txt
+	    New File  		    2048	data_2_B.docx
+	    New File  		    1024	dokumen_2_B.pdf
+	    New File  		    4096	laporan_2_B.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_B\Subfolder_B3\
+	    New File  		    5120	aplikasi_3_B.bat
+	    New File  		    3072	catatan_3_B.txt
+	    New File  		    2048	data_3_B.docx
+	    New File  		    1024	dokumen_3_B.pdf
+	    New File  		    4096	laporan_3_B.csv
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_C\
+	    New File  		    2048	cofig_3.ini
+	    New File  		    3072	database_3.db
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_C\Subfolder_C1\
+	    New File  		    5120	aplikasi_1_C.bat
+	    New File  		    3072	catatan_1_C.txt
+	    New File  		    2048	data_1_C.docx
+	    New File  		    1024	dokumen_1_C.pdf
+	    New File  		    4096	laporan_1_C.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_C\Subfolder_C2\
+	    New File  		    5120	aplikasi_2_C.bat
+	    New File  		    3072	catatan_2_C.txt
+	    New File  		    2048	data_2_C.docx
+	    New File  		    1024	dokumen_2_C.pdf
+	    New File  		    4096	laporan_2_C.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_C\Subfolder_C3\
+	    New File  		    5120	aplikasi_3_C.bat
+	    New File  		    3072	catatan_3_C.txt
+	    New File  		    2048	data_3_C.docx
+	    New File  		    1024	dokumen_3_C.pdf
+	    New File  		    4096	laporan_3_C.csv
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_D\
+	    New File  		    2048	cofig_4.ini
+	    New File  		    3072	database_4.db
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_D\Subfolder_D1\
+	    New File  		    5120	aplikasi_1_D.bat
+	    New File  		    3072	catatan_1_D.txt
+	    New File  		    2048	data_1_D.docx
+	    New File  		    1024	dokumen_1_D.pdf
+	    New File  		    4096	laporan_1_D.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_D\Subfolder_D2\
+	    New File  		    5120	aplikasi_2_D.bat
+	    New File  		    3072	catatan_2_D.txt
+	    New File  		    2048	data_2_D.docx
+	    New File  		    1024	dokumen_2_D.pdf
+	    New File  		    4096	laporan_2_D.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_D\Subfolder_D3\
+	    New File  		    5120	aplikasi_3_D.bat
+	    New File  		    3072	catatan_3_D.txt
+	    New File  		    2048	data_3_D.docx
+	    New File  		    1024	dokumen_3_D.pdf
+	    New File  		    4096	laporan_3_D.csv
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_E\
+	    New File  		    2048	cofig_5.ini
+	    New File  		    3072	database_5.db
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_E\Subfolder_E1\
+	    New File  		    5120	aplikasi_1_E.bat
+	    New File  		    3072	catatan_1_E.txt
+	    New File  		    2048	data_1_E.docx
+	    New File  		    1024	dokumen_1_E.pdf
+	    New File  		    4096	laporan_1_E.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_E\Subfolder_E2\
+	    New File  		    5120	aplikasi_2_E.bat
+	    New File  		    3072	catatan_2_E.txt
+	    New File  		    2048	data_2_E.docx
+	    New File  		    1024	dokumen_2_E.pdf
+	    New File  		    4096	laporan_2_E.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_E\Subfolder_E3\
+	    New File  		    5120	aplikasi_3_E.bat
+	    New File  		    3072	catatan_3_E.txt
+	    New File  		    2048	data_3_E.docx
+	    New File  		    1024	dokumen_3_E.pdf
+	    New File  		    4096	laporan_3_E.csv
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_F\
+	    New File  		    2048	cofig_6.ini
+	    New File  		    3072	database_6.db
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_F\Subfolder_F1\
+	    New File  		    5120	aplikasi_1_F.bat
+	    New File  		    3072	catatan_1_F.txt
+	    New File  		    2048	data_1_F.docx
+	    New File  		    1024	dokumen_1_F.pdf
+	    New File  		    4096	laporan_1_F.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_F\Subfolder_F2\
+	    New File  		    5120	aplikasi_2_F.bat
+	    New File  		    3072	catatan_2_F.txt
+	    New File  		    2048	data_2_F.docx
+	    New File  		    1024	dokumen_2_F.pdf
+	    New File  		    4096	laporan_2_F.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_F\Subfolder_F3\
+	    New File  		    5120	aplikasi_3_F.bat
+	    New File  		    3072	catatan_3_F.txt
+	    New File  		    2048	data_3_F.docx
+	    New File  		    1024	dokumen_3_F.pdf
+	    New File  		    4096	laporan_3_F.csv
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_G\
+	    New File  		    2048	cofig_7.ini
+	    New File  		    3072	database_7.db
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_G\Subfolder_G1\
+	    New File  		    5120	aplikasi_1_G.bat
+	    New File  		    3072	catatan_1_G.txt
+	    New File  		    2048	data_1_G.docx
+	    New File  		    1024	dokumen_1_G.pdf
+	    New File  		    4096	laporan_1_G.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_G\Subfolder_G2\
+	    New File  		    5120	aplikasi_2_G.bat
+	    New File  		    3072	catatan_2_G.txt
+	    New File  		    2048	data_2_G.docx
+	    New File  		    1024	dokumen_2_G.pdf
+	    New File  		    4096	laporan_2_G.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_G\Subfolder_G3\
+	    New File  		    5120	aplikasi_3_G.bat
+	    New File  		    3072	catatan_3_G.txt
+	    New File  		    2048	data_3_G.docx
+	    New File  		    1024	dokumen_3_G.pdf
+	    New File  		    4096	laporan_3_G.csv
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_H\
+	    New File  		    2048	cofig_8.ini
+	    New File  		    3072	database_8.db
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_H\Subfolder_H1\
+	    New File  		    5120	aplikasi_1_H.bat
+	    New File  		    3072	catatan_1_H.txt
+	    New File  		    2048	data_1_H.docx
+	    New File  		    1024	dokumen_1_H.pdf
+	    New File  		    4096	laporan_1_H.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_H\Subfolder_H2\
+	    New File  		    5120	aplikasi_2_H.bat
+	    New File  		    3072	catatan_2_H.txt
+	    New File  		    2048	data_2_H.docx
+	    New File  		    1024	dokumen_2_H.pdf
+	    New File  		    4096	laporan_2_H.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_H\Subfolder_H3\
+	    New File  		    5120	aplikasi_3_H.bat
+	    New File  		    3072	catatan_3_H.txt
+	    New File  		    2048	data_3_H.docx
+	    New File  		    1024	dokumen_3_H.pdf
+	    New File  		    4096	laporan_3_H.csv
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_I\
+	    New File  		    2048	cofig_9.ini
+	    New File  		    3072	database_9.db
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_I\Subfolder_I1\
+	    New File  		    5120	aplikasi_1_I.bat
+	    New File  		    3072	catatan_1_I.txt
+	    New File  		    2048	data_1_I.docx
+	    New File  		    1024	dokumen_1_I.pdf
+	    New File  		    4096	laporan_1_I.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_I\Subfolder_I2\
+	    New File  		    5120	aplikasi_2_I.bat
+	    New File  		    3072	catatan_2_I.txt
+	    New File  		    2048	data_2_I.docx
+	    New File  		    1024	dokumen_2_I.pdf
+	    New File  		    4096	laporan_2_I.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_I\Subfolder_I3\
+	    New File  		    5120	aplikasi_3_I.bat
+	    New File  		    3072	catatan_3_I.txt
+	    New File  		    2048	data_3_I.docx
+	    New File  		    1024	dokumen_3_I.pdf
+	    New File  		    4096	laporan_3_I.csv
+	  New Dir          2	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_J\
+	    New File  		    2048	cofig_10.ini
+	    New File  		    3072	database_10.db
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_J\Subfolder_J1\
+	    New File  		    5120	aplikasi_1_J.bat
+	    New File  		    3072	catatan_1_J.txt
+	    New File  		    2048	data_1_J.docx
+	    New File  		    1024	dokumen_1_J.pdf
+	    New File  		    4096	laporan_1_J.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_J\Subfolder_J2\
+	    New File  		    5120	aplikasi_2_J.bat
+	    New File  		    3072	catatan_2_J.txt
+	    New File  		    2048	data_2_J.docx
+	    New File  		    1024	dokumen_2_J.pdf
+	    New File  		    4096	laporan_2_J.csv
+	  New Dir          5	C:\Users\Alisya\Desktop\SimulasiDrive_D\Folder_J\Subfolder_J3\
+	    New File  		    5120	aplikasi_3_J.bat
+	    New File  		    3072	catatan_3_J.txt
+	    New File  		    2048	data_3_J.docx
+	    New File  		    1024	dokumen_3_J.pdf
+	    New File  		    4096	laporan_3_J.csv
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        41        40         1         0         0         1
+   Files :       170       170         0         0         0         1
+   Bytes :   500.0 k   500.0 k         0         0         0         0
+   Times :   0:00:14   0:00:01                       0:00:00   0:00:13
+
+
+   Speed :              331391 Bytes/sec.
+   Speed :              18.962 MegaBytes/min.
+   Ended : Tuesday, December 2, 2025 10:19:49 PM
+
